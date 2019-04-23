@@ -1,0 +1,4 @@
+class CfgFunctions 
+{
+	#include "scripts\functions\cfgFunctions.hpp"
+};

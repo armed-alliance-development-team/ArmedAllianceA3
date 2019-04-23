@@ -1,0 +1,9 @@
+
+// PICK RANDOM GENERAL
+
+// _general = 
+
+
+// ASSIGNS A RANDOM GENERAL
+
+// REGIME_GENERAL = 
